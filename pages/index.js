@@ -12,7 +12,9 @@ export default function Home() {
         <meta name="description" content="Software development, web apps, mobile apps" />
         <link rel="icon" href="/favicon.png" />
       </Head>
-      <div className="text-xl font-bold text-red-500">Portia Software Solutions</div>
+      <div className="py-10">
+        <div className="text-2xl font-semibold text-red-500">Portia Software Solutions</div>
+      </div>
 
     </div>
   )
